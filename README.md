@@ -1,7 +1,7 @@
 
 
 
-🚀 Página do Curso de Dados | Programaria
+<h1>🚀 Página do Curso de Dados | Programaria</h1>
 Bem-vinda(o) à minha página do Curso de Dados com a Programaria! 🎓✨
 
 Este repositório foi criado como parte do meu processo de aprendizado no universo dos dados, englobando conceitos essenciais de análise, visualização e manipulação de dados com ferramentas modernas e acessíveis. https://lookerstudio.google.com/s/ihnnjWIr_kk
